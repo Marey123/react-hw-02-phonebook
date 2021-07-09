@@ -1,6 +1,7 @@
 {
   "name": "react_hw_2.2",
   "version": "0.1.0",
+  "homepage":"https://marey123.github.io/react-hw-02-phonebook/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
